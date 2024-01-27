@@ -1,0 +1,30 @@
+body{
+  background-color:rgb(176, 202, 211);
+  text-align: center;
+}
+
+
+#display{
+  font-style: italic;
+  font-size: 25px;
+}
+
+#result{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#previousguesses,#remainingguesses{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+  background-color: gray;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+#rg,#pg{
+  font-size: 18px;
+}
